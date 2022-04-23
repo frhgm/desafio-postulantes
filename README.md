@@ -1,3 +1,7 @@
+## Instrucciones para ejecucion
+1. Ejecutar ```npm install``` para instalar dependencias (puppeteer en este caso)
+2. Ejecutar ```npm start``` para ejecutar script. Esto actualizará el archivo **results.json**
+---
 # Desafio Postulantes
 
 Con el fin de seleccionar a nuestros 2 developers, tenemos el siguente desafio.
