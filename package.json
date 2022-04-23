@@ -1,0 +1,18 @@
+{
+  "name": "fapro",
+  "version": "1.0.0",
+  "description": "Desarrollo de prueba para Fapro",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/frhgm/desafio-postulantes"
+  },
+  "scripts": {
+    "start": "node index.js > results.json",
+    "test": "test"
+  },
+  "author": "Felipe Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.6.0"
+  }
+}
